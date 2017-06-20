@@ -1,0 +1,12 @@
+!*.java
+*.lock
+*.log
+*.gen
+*.zip
+.running
+.workingsets.xml
+version.ini
+.classpath
+.project
+*.class
+.metadata/*
